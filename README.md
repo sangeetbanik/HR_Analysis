@@ -49,7 +49,20 @@ The original dataset has 1470 rows and 35 columns.<br>
 - The sales department, along with roles like sales representatives and lab technicians, experiences high turnover rates.
 - The research and development department and the positions of research scientist and research director have low turnover rates.
 
-> 4. 
+> 4. What is the attrition rate based on Satisaction Factor?
+#### Attrition Rate based on Satisfaction factor
+![satisfaction](https://github.com/user-attachments/assets/ed77651b-cb05-40d9-8dde-1e72496022ee)
+
+- **Job Satisfaction:** Employees with low job satisfaction are more likely to leave, indicating that factors like tasks, responsibilities, and challenges play a key role in retention.  
+- **Environmental Satisfaction:** An unsupportive or uncomfortable work environment, or one that conflicts with an employee's values, can drive them to seek other opportunities.  
+- **Relationship Satisfaction:** Positive relationships with colleagues and supervisors foster a sense of belonging and loyalty, helping reduce turnover.  
+- **Job Involvement:** Employees who are engaged and invested in their work tend to remain loyal and committed to the organization.  
+- **Work-Life Balance:** Maintaining a healthy work-life balance is crucial. Employees who feel that work negatively impacts their personal lives are more likely to leave.  
+
+> 4. What is the attrition rate based on Salary Factor?
+#### Attrition Rate based on Salary factor
+![salary](https://github.com/user-attachments/assets/4f44800e-1798-4884-94b0-a3027415ff39)
+
 
 
 
