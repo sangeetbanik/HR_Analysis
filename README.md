@@ -18,7 +18,7 @@ In the business world, keeping talented employees is a big challenge. One major 
 - Data visualization - Python.
 
 ### 3. Process
-The original dataset has 1470 rows and 35 columns.
+The original dataset has 1470 rows and 35 columns.<br>
 ![Screenshot 2024-12-12 145904](https://github.com/user-attachments/assets/b750501f-3e19-45a4-8e3f-a89b35b6ea8d)
 
 ### 4. Analyze
