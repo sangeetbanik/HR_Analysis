@@ -1,4 +1,4 @@
-# HR Analytics Employee Attrition & Performance
+# HR Analytics: Employee Attrition & Performance
 
 ## 📝 Introduction 
 In the business world, keeping talented employees is a big challenge. One major issue is the growing problem of employee turnover, often called HR attrition. High turnover can seriously affect a company's productivity and stability. It can lead to higher hiring and training costs, disrupt teamwork, and cause the loss of valuable knowledge within the company. That's why it's so important to understand what drives attrition and to put effective retention strategies in place to stay competitive and ensure long-term success.
