@@ -98,7 +98,17 @@ The data reveals that new employees face a significantly higher risk of leaving 
 #### Attrition rate based on Years since last promotion
 ![since lat promo](https://github.com/user-attachments/assets/601bc0b3-c242-42dc-bea6-447c6cc46884)
 
-> 11. 
+> 11. How educational field affects attrition rate?
+#### Attrition rate based on Educational field
+![Education field](https://github.com/user-attachments/assets/d00dc1c2-19e8-4047-809d-4cc9be287227)
+
+> 12. How Over time affects the  attrition?
+#### Attrition rate based on Over Time
+![overtime](https://github.com/user-attachments/assets/0cf6fdbb-bcf7-4f4f-8940-8cbc0c580593)
+
+> 13. How does the number of companies an employee has previously worked for impact attrition?
+#### Attrition Rate based No.of companies an employee worked
+![no of compaines worked](https://github.com/user-attachments/assets/be1bd756-f923-47db-a891-a33446447cdd)
 
 
 
