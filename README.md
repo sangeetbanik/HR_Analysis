@@ -79,7 +79,26 @@ The original dataset has 1470 rows and 35 columns.<br>
 
 The data reveals that new employees face a significantly higher risk of leaving the company compared to those with longer tenure. The high attrition rate within the first year underscores the importance of focused retention strategies for new hires. Furthermore, employees with approximately 20 and 35 years of service also exhibit noticeable spikes in attrition, warranting targeted attention during these periods.
 
-> 7. 
+> 7. How other factors like Distance from home and Marital status affects attrition?
+#### Attrition based on Distance From Home and Marital Status
+![distanve and marital status](https://github.com/user-attachments/assets/775114ad-cb17-4f2c-a638-95b4a5cd2eb7)
+
+- **Distance from home:** The turnover rate varies significantly across different distances. While no clear linear pattern emerges, the graph reveals sharp increases in turnover rates at specific distances. This indicates that the distance to work could be a contributing factor in an employee's decision to leave the company.
+- **Marital Status:** Single employees exhibit the highest turnover rate, followed by married employees, while divorced employees have the lowest turnover rate. This suggests that marital status could be a factor influencing an employee's decision to remain with or leave the company.
+
+> 8. How attrition rate is affected by Travel frequency of the employee?
+#### Attrition rate based on Business travel
+![travel frequency](https://github.com/user-attachments/assets/e666077a-a7b2-40d9-9356-a2ffb6b7c9c4)
+
+> 9. How attrition rate is related to number of years an employee worked under the current manager?
+#### Attrition rate based on Years under current manager
+![years with CM](https://github.com/user-attachments/assets/63b6a1e8-7abb-4e25-9216-8df1abc38006)
+
+> 10. How attrition rate is related to promotion?
+#### Attrition rate based on Years since last promotion
+![since lat promo](https://github.com/user-attachments/assets/601bc0b3-c242-42dc-bea6-447c6cc46884)
+
+> 11. 
 
 
 
