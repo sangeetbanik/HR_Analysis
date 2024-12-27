@@ -62,9 +62,24 @@ The original dataset has 1470 rows and 35 columns.<br>
 > 4. What is the attrition rate based on Salary Factor?
 #### Attrition Rate based on Salary factor
 ![salary](https://github.com/user-attachments/assets/4f44800e-1798-4884-94b0-a3027415ff39)
+ 
+- This chart reveals that the majority of employees who left earned a monthly income between 5,000 and 7,500. Turnover rates significantly decline for employees earning above 7,500, suggesting that higher salaries are linked to greater employee retention.
+- The chart indicates that employees with salary increases below 16% are more likely to leave the company.
 
+> 5. What is the attrition rate based on Beneit factor?
+#### Attrition Rate based on Benefit factor
+![beneit](https://github.com/user-attachments/assets/7a06b964-27d1-4fd9-b186-43bcbb1ab152)
 
+- **Stock options:** contribute positively to employee retention, as those with more shares are generally more loyal and remain with the company longer. 
+- **Training opportunities:** ample training opportunities enhance employee satisfaction and motivation, encouraging them to stay with the organization.
 
+> 6. What is the attrition rate between new hires and long-time employees?
+#### Attrition rate between new nies and long-time employees
+![yearAt company](https://github.com/user-attachments/assets/00245b02-42a9-4cd8-9dcd-3537a36e8aea)
+
+The data reveals that new employees face a significantly higher risk of leaving the company compared to those with longer tenure. The high attrition rate within the first year underscores the importance of focused retention strategies for new hires. Furthermore, employees with approximately 20 and 35 years of service also exhibit noticeable spikes in attrition, warranting targeted attention during these periods.
+
+> 7. 
 
 
 
