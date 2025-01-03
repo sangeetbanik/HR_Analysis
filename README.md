@@ -90,13 +90,24 @@ The data reveals that new employees face a significantly higher risk of leaving 
 #### Attrition rate based on Business travel
 ![travel frequency](https://github.com/user-attachments/assets/e666077a-a7b2-40d9-9356-a2ffb6b7c9c4)
 
+- **Frequent travel** posing a significant risk factor for higher turnover. This could be due to stress, work-life balance issues, or dissatisfaction related to travel demands. 
+
+
 > 9. How attrition rate is related to number of years an employee worked under the current manager?
 #### Attrition rate based on Years under current manager
 ![years with CM](https://github.com/user-attachments/assets/63b6a1e8-7abb-4e25-9216-8df1abc38006)
 
+- **Employees with 0 years of experience** under their current manager (likely new hires or those who recently switched managers) show the highest attrition rate. This indicates that initial periods under a new manager are critical for employee retention.
+- **An unusual and significant spike is observed at 14 years**, where the attrition rate jumps to **40.00%**. This could indicate a specific organizational or external factor affecting employees at this tenure.
+
+
 > 10. How attrition rate is related to promotion?
 #### Attrition rate based on Years since last promotion
 ![since lat promo](https://github.com/user-attachments/assets/601bc0b3-c242-42dc-bea6-447c6cc46884)
+
+- **High Attrition Within the First Year (18.93%):** Employees who were recently promoted (0 years since last promotion) have a high attrition rate. This suggests that promotion alone might not be sufficient to retain employees, possibly due to increased workload or unmet expectations post-promotion.
+- **Peak Attrition in Year 9 (23.53%):** Year 9 exhibits the highest attrition rate, possibly highlighting a threshold where employees feel stagnated if not promoted for nearly a decade.
+- **Reduced Attrition Beyond Year 9 with Exceptions:** Attrition drops to 0% in year 8 and year 12, possibly due to a small sample size. However, it remains relatively high in years like 10 (16.67%), 13 (20.00%), and 15 (23.08%), indicating sporadic dissatisfaction at extended intervals without promotion.
 
 > 11. How educational field affects attrition rate?
 #### Attrition rate based on Educational field
